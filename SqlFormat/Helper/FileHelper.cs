@@ -12,5 +12,6 @@ public static class FileHelper
     {
         string text = await File.ReadAllTextAsync(filePath);
         await Console.Out.WriteLineAsync(text);
+        await Console.Out.WriteLineAsync("檔案讀取完畢");
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace SqlFormat
+namespace SqlFormat
 {
     public class Program
     {
