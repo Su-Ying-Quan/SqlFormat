@@ -1,0 +1,15 @@
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.AssemblyReference.cache
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.AssemblyInfoInputs.cache
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.AssemblyInfo.cs
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.CoreCompileInputs.cache
+D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.exe
+D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.deps.json
+D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.runtimeconfig.json
+D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.dll
+D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.pdb
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.dll
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\refint\SqlFormat.dll
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.pdb
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.genruntimeconfig.cache
+D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\ref\SqlFormat.dll
