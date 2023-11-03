@@ -27,3 +27,6 @@ H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\refint\SqlFormat.dll
 H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.pdb
 H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.genruntimeconfig.cache
 H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\ref\SqlFormat.dll
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\INIFileParser.dll
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.AssemblyReference.cache
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.CopyComplete

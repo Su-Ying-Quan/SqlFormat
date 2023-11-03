@@ -3,8 +3,14 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <Nullable>disable</Nullable>
         <NoWarn>CA1806</NoWarn>
-        <NoWarn>IDE0003</NoWarn>
+        <NoWarn>0003</NoWarn>
+        <NoWarn>0009</NoWarn>
+        <NoWarn>0090</NoWarn>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="ini-parser"
+                          Version="2.5.2" />
+    </ItemGroup>
 </Project>
