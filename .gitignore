@@ -1,2 +1,5 @@
 .vscode/
 .vs/
+.cache
+.editorconfig
+.assets.cache
