@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7SPpv0BkTmruLJy3Un7sc9WbwAvplcy5RWegAPydPr7e5NbuFjiiRIxndGJOcv+j/2ZwtooOSIsnew9891H+Q==",
+  "dgSpecHash": "01PIRqZWCosKVPDUIRlSW5srfYcvgvsI2mX/ZJZwcvMNC3S8jZGlO9xKZL2dJMX94YnFCCZ7jhVhg3UMZB8n/A==",
   "success": true,
-  "projectFilePath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+  "projectFilePath": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

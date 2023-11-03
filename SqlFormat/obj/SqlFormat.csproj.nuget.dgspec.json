@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {}
+    "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {}
   },
   "projects": {
-    "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {
+    "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+        "projectUniqueName": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
         "projectName": "SqlFormat",
-        "projectPath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
-        "packagesPath": "C:\\Users\\蘇映銓\\.nuget\\packages\\",
-        "outputPath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\obj\\",
+        "projectPath": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+        "packagesPath": "C:\\Users\\arech\\.nuget\\packages\\",
+        "outputPath": "H:\\C#Git\\SqlFormat\\SqlFormat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\蘇映銓\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arech\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

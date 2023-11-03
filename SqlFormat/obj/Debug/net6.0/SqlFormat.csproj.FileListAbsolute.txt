@@ -13,3 +13,17 @@ D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\refint\SqlFormat.dll
 D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.pdb
 D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.genruntimeconfig.cache
 D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\ref\SqlFormat.dll
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.exe
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.deps.json
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.runtimeconfig.json
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.dll
+H:\C#Git\SqlFormat\SqlFormat\bin\Debug\net6.0\SqlFormat.pdb
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.AssemblyInfoInputs.cache
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.AssemblyInfo.cs
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.CoreCompileInputs.cache
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.dll
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\refint\SqlFormat.dll
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.pdb
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.genruntimeconfig.cache
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\ref\SqlFormat.dll
