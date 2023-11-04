@@ -32,3 +32,4 @@ H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.AssemblyReference
 H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.CopyComplete
 D:\vs2022\project\SqlFormat\SqlFormat\bin\Debug\net6.0\INIFileParser.dll
 D:\vs2022\project\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.csproj.CopyComplete
+H:\C#Git\SqlFormat\SqlFormat\obj\Debug\net6.0\SqlFormat.sourcelink.json

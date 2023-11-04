@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {}
+    "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {}
   },
   "projects": {
-    "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {
+    "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+        "projectUniqueName": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
         "projectName": "SqlFormat",
-        "projectPath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
-        "packagesPath": "C:\\Users\\蘇映銓\\.nuget\\packages\\",
-        "outputPath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\obj\\",
+        "projectPath": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+        "packagesPath": "C:\\Users\\arech\\.nuget\\packages\\",
+        "outputPath": "H:\\C#Git\\SqlFormat\\SqlFormat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\蘇映銓\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\arech\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
