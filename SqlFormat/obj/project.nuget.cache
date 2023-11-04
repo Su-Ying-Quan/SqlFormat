@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "my4BeUNM8tmSSZkjHwxf1F7vj2JUzTdkJkTknBnpVfWuH8aZL0QQS9r5hnfTuuP10HzZBIYsBtpeSyJm3g0yvg==",
+  "dgSpecHash": "gZA4z3o11zwcq9twYLRio/elW5pYxE685urJbcfnCtDmO0sGd3+MlHgs5q/yexccnVIi1P3CYd5I6UYJXSX/Ew==",
   "success": true,
-  "projectFilePath": "H:\\C#Git\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
+  "projectFilePath": "D:\\vs2022\\project\\SqlFormat\\SqlFormat\\SqlFormat.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\arech\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512"
+    "C:\\Users\\蘇映銓\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512"
   ],
   "logs": [
     {
