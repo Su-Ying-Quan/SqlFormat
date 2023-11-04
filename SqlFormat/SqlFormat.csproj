@@ -5,9 +5,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <NoWarn>CA1806</NoWarn>
-        <NoWarn>0003</NoWarn>
-        <NoWarn>0009</NoWarn>
-        <NoWarn>0090</NoWarn>
+        <NoWarn>IDE0003</NoWarn>
+        <NoWarn>IDE0009</NoWarn>
+        <NoWarn>IDE0090</NoWarn>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="ini-parser"
