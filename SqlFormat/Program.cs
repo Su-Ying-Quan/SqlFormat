@@ -1,4 +1,3 @@
-
 namespace SqlFormat;
 
 public class Program
