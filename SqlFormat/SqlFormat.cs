@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace SqlFormat;
 
 public class SqlFormat
@@ -55,19 +57,30 @@ public class SqlFormat
         // 對原先的字串陣列當中每個元素做調整添加空格的部分並處理分號為獨立元素
         for (int i = 0; i < source.Length; i++)
         {
+            int leftOrRightParenthesis = source[i].IndexOf('(');
+            if (leftOrRightParenthesis != -1)
+            {
+                source[i] = string.Concat(source[i].AsSpan(0, leftOrRightParenthesis), " ( ", source[i].AsSpan(leftOrRightParenthesis + 1));
+            }
+            leftOrRightParenthesis = source[i].IndexOf(')');
+            if (leftOrRightParenthesis != -1)
+            {
+                source[i] = string.Concat(source[i].AsSpan(0, leftOrRightParenthesis), " ) ", source[i].AsSpan(leftOrRightParenthesis + 1));
+            }
             if (i == source.Length - 1)
             {
                 if (source[i].Contains(';'))
                 {
-                    source[i] = string.Concat(source[i].AsSpan(0, source[i].Length - 2), " ; ");
+                    source[i] = string.Concat(source[i].AsSpan(0, source[i].Length - 1), " ; ");
                 }
                 else
                 {
                     source[i] += " ; ";
                 }
             }
-            else
+            else if (source[i].Last() != ' ')
             {
+
                 source[i] += " ";
             }
         }
